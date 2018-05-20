@@ -11,3 +11,5 @@
 ### Freelance olaraq yazdığım layihələr
  * https://github.com/narminn/ilahiyat_mescidi_front (ilahiyyat.az saytı-FrontEnd)
  * https://github.com/narminn/ilahiyyat_mescidi_backend (ilahiyyat.az saytı-BackEnd)
+ * https://github.com/narminn/JobSearch_front
+ * https://github.com/narminn/JobSearch_back
