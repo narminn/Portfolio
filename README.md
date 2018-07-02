@@ -13,4 +13,5 @@
  * https://github.com/narminn/ilahiyyat_mescidi_backend (ilahiyyat.az saytı-BackEnd)
  * https://github.com/narminn/JobSearch_front
  * https://github.com/narminn/JobSearch_back
- * https://github.com/narminn/PortfolioProject  (Portfolio sayti-FrontEnd)
+ * https://github.com/narminn/PortfolioProject  (Portfolio saytı-FrontEnd)
+ * https://github.com/narminn/TourismProject_Front (Turizm saytı-FrontEnd)
