@@ -16,5 +16,6 @@
  * https://github.com/narminn/PortfolioProject  (Portfolio saytı-FrontEnd)
  * https://github.com/narminn/TourismProject_Front (Turizm saytı-FrontEnd)
  * https://github.com/narminn/Aylolo_frontend (Online Elan saytı-FrontEnd)
+ ### Digər layihələr
  * Ecommerce Web Application(BackEnd)
  * Kart Sistemi Desktop Application
